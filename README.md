@@ -1,4 +1,4 @@
-##Pythonanywhere.com
+## Pythonanywhere.com
 
  cd /your/project/path
  
@@ -11,7 +11,7 @@
  **STATIC FILES NOT FOUND**: Change the static DIR path from web tab
 
 
-##Hosting Django project on pythonanywhere.com
+## Hosting Django project on pythonanywhere.com
 
 1. Go to **pythonanywhere.com** and sign in.
 
@@ -36,7 +36,7 @@
 11. open the given link and your project will be running on **yourprojectname.pythonanywhere.com**
 
 
-##Notes:
+## Notes:
 
 1. Go to the web tab and press the reload button (you must reload every time you make significant changes or if you are using a low-end machine).
 
